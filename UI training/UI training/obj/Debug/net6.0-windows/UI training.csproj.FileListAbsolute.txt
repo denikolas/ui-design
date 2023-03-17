@@ -1,0 +1,21 @@
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\bin\Debug\net6.0-windows\UI training.exe
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\bin\Debug\net6.0-windows\UI training.deps.json
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\bin\Debug\net6.0-windows\UI training.runtimeconfig.json
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\bin\Debug\net6.0-windows\UI training.dll
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\bin\Debug\net6.0-windows\UI training.pdb
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.csproj.AssemblyReference.cache
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training_MarkupCompile.cache
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training_MarkupCompile.lref
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.g.resources
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.AssemblyInfoInputs.cache
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.AssemblyInfo.cs
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.csproj.CoreCompileInputs.cache
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.dll
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\refint\UI training.dll
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.pdb
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\UI training.genruntimeconfig.cache
+C:\Users\Golovtchenko.D.S\source\repos\UI training\UI training\obj\Debug\net6.0-windows\ref\UI training.dll
